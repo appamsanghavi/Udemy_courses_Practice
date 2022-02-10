@@ -9,6 +9,6 @@ export class PostListComponent {
   posts = [
     { title: 'first Post', content: 'this is the first post content' },
     { title: 'second Post', content: 'this is the second post content' },
-    { title: 'third Post', content: 'this is the third post content' },
+    { title: 'third Post', content: 'this is the third post content' }
   ];
 }
