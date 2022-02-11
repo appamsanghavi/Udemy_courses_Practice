@@ -1,9 +1,5 @@
-.heading{
-  color:red
-}
-main{
-  margin-top : 16px;
-  width : 80%;
+main {
+  margin-top: 1rem;
+  width: 80%;
   margin: auto;
-
 }
